@@ -1,0 +1,14 @@
+{
+  "name": "node_excel",
+  "version": "1.0.0",
+  "description": "node excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pon",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
